@@ -4,5 +4,5 @@ CipherForge is a pentesting tool that lists the passwords based on your inputs a
 To use the tool:
 clone the git repo using command : https://github.com/Kalyan720/CipherForge
 
-execute the python code
+execute the python code use the command:\n
 python3 CipherForge.py
